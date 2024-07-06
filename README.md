@@ -1,2 +1,2 @@
 # Arduino
-Getting Started With Arduino UNO
+Getting Started With Arduino
