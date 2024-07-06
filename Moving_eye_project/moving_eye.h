@@ -23,12 +23,9 @@
 
 #define ZERO_INIT           0x00
 /*----------------------Datatypes------------------------*/
-typedef uint8_t Std_ReturnType;
 extern Servo myservo;
 extern const int servo_signal_pin;
 extern const int led_pin;
-extern const int s1_out_pin;
-extern const int s2_in_pin;
 extern int index;
 /*----------------------Function Prototypes--------------*/
 
